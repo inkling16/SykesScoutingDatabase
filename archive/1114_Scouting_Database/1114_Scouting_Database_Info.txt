@@ -1,4 +1,4 @@
 This folder contains the 1114 Championship Scouting Databases from 2005 through 2015. 
 These were originally posted publicly to chiefdelphi.com. 
-They are re-hosted here with permission from Karthik Kanagasabapathy and team 1114. Do not re-host these files without permission from Karthik or team 1114. Otherwise, you are free to use them for whatever purpose you wish. 
+They are re-hosted here with permission from Karthik Kanagasabapathy of team 1114. Do not re-host these files without permission from Karthik or team 1114. Otherwise, you are free to use them for whatever purpose you wish. 
 Information specific to each year's database can be found in an info file in that year's sub-folder. 
