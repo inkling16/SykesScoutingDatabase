@@ -1,0 +1,4 @@
+This Folder Contains the 1114 Scouting Databases from 2005 through 2015. 
+The 2005 and 2006 versions were originally documents internal to 1114, while the 2007-2015 versions were posted publicly to chiefdelphi.com. 
+They are re-hosted here with permission from Karthik Kanagasabapathy and 1114. Do not re-host these files without permission from Karthik/1114. Otherwise, use them for whatever you wish. 
+Information about each year's database can be found in that year's sub-folder. 
