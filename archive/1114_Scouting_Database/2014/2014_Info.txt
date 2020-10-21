@@ -1,0 +1,39 @@
+This database was originally posted in the following thread at chiefdelphi.com on April 16, 2014: 
+https://www.chiefdelphi.com/t/paper-2014-team-1114-championship-scouting-database/136714
+
+Here was the original information posted by Karthik along with this database: 
+- Attached is the 2014 Team 1114 Championship Database. This year’s database includes full results for every team who competed in the 2014 season. We’ve based this version on the current divisions posted at usfirst.org. If these change we will update accordingly. (However if it’s just a couple of additions, we may not release a new version)
+- 
+- The database includes:
+- -An interface to allow you pull an individual team’s record
+- -Full listing of awards, record & finish
+- -Team scoring averages
+- -Total “OPR” as well as Assist, Auto and Truss+Catch “OPR”. These calculations use linear algebra to determine what a team’s average input to their alliance was at each regional. (Only using qualifying match results)
+- -A master sheet for a sortable comparison of all FIRST teams
+- -Master sheets for each division and full divisional assignments
+- -A quick Divisional Stats Summary
+- -New this year, “Calculated World District-System Ranking”
+- 
+- Calculated World District-System Ranking, uses the universal district point system to calculate a team’s ranking based on qualification W-L-T results, alliance selection, elimination finish, and awards. Full details about the scoring system can be found here 1.
+- 
+- A few things to note when reviewing the “Calculated World District-System Ranking” results
+- 
+- -The results, draft, win-loss, and award points are normalized to 2 events since the district system only counts points from the first two events (ie. If you only attend one event and lost in the semi finals as a first round pick you would receive 210/1 elim points; 2 events * total elim points / number of regionals attended)
+- -The Win-Loss points was normalized to 12 matches per event (ie. If you win 8 matches at an event where only 10 matches were played, you would receive 212*8/10 points; 2 points for a win * 12 matches * winning percentage)
+- -All District Champsionship Data has been excluded as we feel this would hurt the normalized points for teams competing at these events as it is more difficult to obtain points due to stronger competition
+- -District Chairman’s Award, Engineering Inspiration, and Rookie All-Star has been treated like a regular regional, and have been listed in the Auto Qualify for World column
+- 
+- Some of this is comparing apples to oranges, so it’s important to keep the following things in mind as well
+- 
+- -Weak teams that only attended one event and “get lucky” by making it to the finals would have inflated numbers, as their “result” numbers were doubled to be normalized to two events. It is unlikely had they attended a second event their results would have been as favorable and therefore would have likely had less total result points
+- -Conversely a strong team that attends three events and gets “upset” in the semi finals at their third event would have deflated numbers as only the points from their first two events would have counted in the district system and they would have had higher total result points
+- -Teams that attend smaller and/or weaker regionals will have inflated numbers as it is easier to obtain points
+- -Teams that attend larger and/or more competitive regionals will have deflated numbers as it is more difficult to obtain points
+- 
+- The data we have was all mined from the FIRST website. There may be some errors, but I’m confident the data is 97.1114% accurate. That being said, much of the alliance selection results were obtained via word of mouth, so there may be some errors.
+- 
+- Prior to 2008 we never released any of our regression analysis (OPR) that we had been doing since 2004. Since people have become more knowledgeable on the subject we decided to make the change. Please do not take a poor score as a slight or an insult. We simply used the actual scores from matches to perform a calculation. We feel that this tool is the best available metric if you are unable to watch the actual matches. Since none of us can attend every regional, it should be a valuable tool. However, as discussed in many places on these forums, OPR is definitely not a magic stat, or dominating predictor of success. Use with caution.
+- 
+- Thanks to Geoff Allan, Ben Bennett and Roberto Rotolo of Team 1114 Stats and Research for creating this year’s database. Thanks to all on Chief Delphi who helped with the alliance selection results that are used within this database.
+- 
+- If you have any questions, please ask.

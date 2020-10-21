@@ -1,0 +1,24 @@
+This database was originally posted in the following thread at chiefdelphi.com on April 18, 2012: 
+https://www.chiefdelphi.com/t/paper-2012-team-1114-championship-scouting-database/121480
+
+Here was the original information posted by Geoff1114 along with this database: 
+- Greetings all,
+- 
+- Attached is the 2012 Team 1114 Championship Database. This year’s database includes full results for every team who competed in the 2012 season as well. We’ve based this version on the current divisions posted at usfirst.org. If these change we will update accordingly. (However if it’s just a couple of additions, we may not release a new version)
+- 
+- The database includes:
+- 
+- An interface to allow you pull an individual team’s record
+- Full listing of awards, record & finish
+- Team scoring averages
+- “OPR” This calculation usings linear alegbra to determine what a team’s average input to their alliance was at each regional. (Only using qualifying match results)
+- A master sheet for a sortable comparison of all FIRST teams
+- Master sheets for each division and full divisional assigments
+- A quick Divisional Stats Summary
+- The data we have was all mined from the FIRST website. There may be some errors, but I’m confident the data is 97.1114% accurate. That being said, much of the alliance selection results were obtained via word of mouth, so there may be some errors.
+- 
+- Prior to 2008 we never released any of our regression analysis (OPR) that we had been doing since 2004. Since people have become more knowledgeable on the subject we decided to make the change. Please do not take a poor score as a slight or an insult. We simply used the actual scores from matches to perform a calculation. We feel that this tool is the best available metric if you are unable to watch the actual matches. Since none of us can attend every regional, it should be a valuable tool. In our opinion, regression analysis is much less effective for Rebound Rumble than it was for most of the games in recent history, so in addition, we have also included average scoring based on standings. If you want more details on this, come check out Karthik’s seminar in St. Louis.
+- 
+- Thanks to Karthik Kanagasabapathy, Ben Bennett and Roberto Rotolo of Team 1114 Stats and Research for creating this year’s database. Thanks to all on Chief Delphi who helped with the alliance selection results that are used within this database.
+- 
+- If you have any questions, please ask.

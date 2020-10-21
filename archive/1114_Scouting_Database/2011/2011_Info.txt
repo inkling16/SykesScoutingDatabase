@@ -1,0 +1,25 @@
+This database was originally posted in the following thread at chiefdelphi.com on April 19, 2011: 
+https://www.chiefdelphi.com/t/paper-2011-team-1114-championship-scouting-database/113169
+
+Here was the original information posted by Karthik along with this database: 
+- Greetings all,
+- 
+- Attached is the 2011 Team 1114 Championship Database. This year’s database includes full results for every team who competed in the 2011 season as well. We’ve based this version on the current divisions posted at usfirst.org. If these change we will update accordingly. (However if it’s just a couple of additions, we may not release a new version)
+- 
+- The database includes:
+- 
+- An interface allow you pull an individual team’s record
+- Full listing of awards, record & finish
+- Team scoring averages
+- “OPR” This calculation usings linear alegbra to determine what a team’s average input to their alliance was at each regional. (Only using qualifying match results) For the first time, we’ve given in and actually called it OPR. We started using “OPR” back in 2004 before there was any public discussion of it, and we called it “Calculated Contribution”, which is a more descriptive name. In 2007, a few people on CD started using the same method, independently from us and named it OPR. The OPR name stuck and as such we’ve decided to adapt.
+- A master sheet for a sortable comparison of all FIRST teams
+- Master sheets for each division and full divisional assigments
+- Normalized rankings of many stats. This year we found that a team’s true performance could be skewed in stats by attending a stronger regional. With our scoring metrics, we decided to normalize them in order to provide a different comparative view regional to regional. We normalize by comparing the Regional’s average score to the World’s. If a Regional’s average score is higher than the World the possibility of teams’ scores being artificially inflated by the performance of other teams. Therefore we normalize this by dividing this by the relative “strength” of the event. The general formula is: Normscore = Real Score x World Average / Regional Average
+- Overall Regional and Divisional Stats
+- The data we have was all mined from the FIRST website. There may be some errors, but I’m confident the data is 97.1114% accurate. That being said, much of the alliance selection results were obtained via word of mouth, so there may be some errors.
+- 
+- Prior to 2008 we never released any of our regression analysis (OPR) that we had been doing since 2004. Since people have become more knowledgeable on the subject we decided to make the change. Please do not take a poor score as a slight or an insult. We simply used the actual scores from matches to perform a calculation. We feel that this tool is the best available metric if you are unable to watch the actual matches. Since none of us can attend every regional, it should be a valuable tool. Regression analysis is less effective for Logomotion than it was Breakaway, much better than lunacy, but nowhere even close to Overdrive. If you want more details on this, come check out my seminar in St. Louis.
+- 
+- Thanks to Geoff Allan, Ben Bennett and Roberto Rotolo of Team 1114 Stats and Research for creating this year’s database.
+- 
+- If you have any questions, please ask.

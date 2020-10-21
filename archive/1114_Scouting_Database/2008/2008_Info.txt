@@ -1,0 +1,20 @@
+This database was originally posted in the following thread at chiefdelphi.com on April 9, 2008: 
+https://www.chiefdelphi.com/t/paper-2008-team-1114-championship-database/89042
+
+Here was the original information posted by Karthik along with this database: 
+- Greetings all,
+- 
+- Attached is the 2008 Team 1114 Championship Database. This year’s database includes full results for every team who competed in the 2008 season as well:
+- 
+- An interface allow you pull an individual team’s record
+- Full listing of awards, record & finish
+- Team scoring averages
+- “Calculated Contribution” which is the same calculation being refered to as OPR on these forums. This calculation usings linear alegbra to determine what a team’s average input to their alliance was at each regional. (Only using qualifying match results) We found an average correlation between R = 0.7 and 0.85 to observed emperical scouting data
+- Master sheets for each division, and for all FIRST teams.
+- The data we have was all mined from the FIRST website. There may be some errors, but I’m confident the data is 98.1114% accurate. We will not be issuing any updates this year due to time constraints.
+- 
+- In the past we have never released any of our regression analysis (Calculated Contribution), this year since people have become more knowledgable on the subject we decided to make the change. Please do not take a poor score as a slight or an insult. We simply used the actual scores from matches to perform a calculation. We feel that this tool is the best available metric if you are unable to watch the actual matches. Since none of us can attend every regional, it should be a valuable tool.
+- 
+- Special thanks go out to everyone on Team 1114 who made this database possible, especially Geoff Allan and Roberto Rotolo.
+- 
+- If you have any questions, please ask.

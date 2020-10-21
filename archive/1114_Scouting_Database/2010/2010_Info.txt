@@ -1,0 +1,25 @@
+This database was originally posted in the following thread at chiefdelphi.com on April 8, 2010: 
+https://www.chiefdelphi.com/t/paper-2010-team-1114-championship-scouting-database/105029
+
+Here was the original information posted by Karthik along with this database: 
+- Greetings all,
+- 
+- Attached is the 2010 Team 1114 Championship Database. This year’s database includes full results for every team who competed in the 2010 season as well. We’ve based this version on the current divisions posted at usfirst.org. If these change we will update accordingly. (However if it’s just a couple of additions, we may not release a new version)
+- 
+- The database includes:
+- 
+- An interface allow you pull an individual team’s record
+- Full listing of awards, record & finish
+- Team scoring averages
+- “Calculated Contribution” which is the same calculation being refered to as OPR on these forums. This calculation usings linear alegbra to determine what a team’s average input to their alliance was at each regional. (Only using qualifying match results)
+- A master sheet for a sortable comparison of all FIRST teams
+- Master sheets for each division and full divisional assigments
+- The data we have was all mined from the FIRST website. There may be some errors, but I’m confident the data is 97.1114% accurate. That being said, there were some gaps in the standings for WOR and IL. These regionals will have some funky results, as we pulled the standings straight from usfirst.org, but the alliance selection results from actual observation.
+- 
+- We’ll upload a version for older Excel shortly. It’s a much larger file.
+- 
+- Prior to 2008 we never released any of our regression analysis (Calculated Contribution) that we had been doing since 2004. Since people have become more knowledgeable on the subject we decided to make the change. Please do not take a poor score as a slight or an insult. We simply used the actual scores from matches to perform a calculation. We feel that this tool is the best available metric if you are unable to watch the actual matches. Since none of us can attend every regional, it should be a valuable tool. Regression analysis is much more effective for Breakaway than it was for Lunacy, but still not as good as it was for Overdrive. If you want more details on this, come check out my seminar in Atlanta.
+- 
+- Thanks to Geoff Allan, Ben Bennett and Roberto Rotolo of Team 1114 Stats and Research for creating this year’s database.
+- 
+- If you have any questions, please ask.
