@@ -1,0 +1,4 @@
+This database was originally posted in the following thread at chiefdelphi.com: 
+https://www.chiefdelphi.com/t/paper-new-scouting-database-from-team-2834/91560
+
+Two versions of the database are included in this folder, an excel 2003 version and an excel 2007 version. 
