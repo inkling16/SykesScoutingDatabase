@@ -1,9 +1,0 @@
-This database was originally posted in the following thread at chiefdelphi.com on April 4, 2007: 
-https://www.chiefdelphi.com/t/paper-2007-championship-event-scouting-database-presented-by-team-1114/80261
-
-Here was the original information posted by Karthik along with this database: 
-- Here’s our 4th annual Championship Event database. We are well aware that some data is missing. Also, we take no responsibility for the accuracy of the data. I think it’s close to 99% accurate. Unfortunately, there will be no updates to the public edition of the database.
--  
-- Thanks should go to Team 1114’s Team Strategy for the creation of this database, especially Geoff Allan and Roberto.
-- 
-- Enjoy.

@@ -1,1 +1,0 @@
-This folder contains items that are primarily used in the building of a new scouting database and event simulator in a new season. Unless you are Caleb or someone who is looking to maintain these resources after Caleb leaves, you probably don't need anything in here. 
